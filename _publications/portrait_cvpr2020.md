@@ -1,7 +1,7 @@
 ---
 title: "Robust 3D Self-portraits in Seconds"
 collection: publications
-permalink: liuyebin.com
+#permalink: liuyebin.com
 excerpt: 'We propose an efficient method for robust 3d self-portraits using a single RGBD camera.'
 date: 2009-10-01
 #venue: 'Journal 1'
