@@ -12,6 +12,6 @@ Hi, this is Zhe Li. I am a 1st PhD student in Department of Automation, Tsinghua
 
 Publication
 ======
-Robust 3D Self-portraits in Seconds
-Zhe Li, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu
+Robust 3D Self-portraits in Seconds\\
+Zhe Li, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu\\
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)
