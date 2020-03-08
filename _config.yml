@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Zhe Li's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhe Li"
+description              : &description "1st PhD student at THU"
+url                      : https://lizhe0908.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lizhe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhe Li(李哲)"
   avatar           : "avatar.png"
-  bio              : "Hi, this is Zhe Li. I'm a 1st year PhD student in Department of Automation,Tsinghua University, advised by Prof. Yebin Liu."
+  bio              : "1st PhD student at THU"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
