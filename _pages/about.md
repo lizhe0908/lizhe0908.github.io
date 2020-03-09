@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
+
 Hi, this is Zhe Li. I am a 1st year PhD student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on computer vision, specifically single-view 3D human reconstruction.
 
 Background
