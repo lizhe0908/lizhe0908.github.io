@@ -23,6 +23,6 @@ Robust 3D Self-portraits in Seconds
 : IEEE Conference on Computer Vision and Pattern Recognition 2020 (**CVPR 2020**)
 : [[Projectpage(coming soon)](http://lizhe0908.github.io)]  [[PDF(coming soon)](http://lizhe0908.github.io)]  [[Video(coming soon)](http://lizhe0908.github.io)]
 
-<p style="color: #EF7F27;font-size: 20px">
+<p style="color: #EF7F27;font-size: 5px">
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)
 </p>
