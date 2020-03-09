@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About me
 
 Hi, this is Zhe Li. I am a 1st year PhD student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on computer vision, specifically single-view 3D human reconstruction.
 
@@ -19,5 +20,5 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 
 <img align="right" src="https://lizhe0908.github.io/images/cvpr2020.jpg" alt="3D Portrait" style="width: 140px"/>
 Robust 3D Self-portraits in Seconds\\
-**Zhe Li**, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu\\
-IEEE Conference on Computer Vision and Pattern Recognition 2020 (CVPR 2020)
+:**Zhe Li**, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu\\
+:IEEE Conference on Computer Vision and Pattern Recognition 2020 (CVPR 2020)
