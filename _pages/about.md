@@ -21,4 +21,4 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 Robust 3D Self-portraits in Seconds
 : **Zhe Li**, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu
 : IEEE Conference on Computer Vision and Pattern Recognition 2020 (CVPR 2020)
-: [Projectpage(coming soon)](http://lizhe0908.github.io)  [PDF(coming soon)](http://lizhe0908.github.io)  [Video(coming soon)](http://lizhe0908.github.io)
+: [[Projectpage(coming soon)](http://lizhe0908.github.io)]  [[PDF(coming soon)](http://lizhe0908.github.io)]  [[Video(coming soon)](http://lizhe0908.github.io)]
