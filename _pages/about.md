@@ -12,7 +12,7 @@ Hi, this is Zhe Li. I am a 1st year PhD student in Department of Automation, Tsi
 
 ## Background
 
-Ph.D Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html).\\
+Ph.D Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).\\
 Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 ## Publication
