@@ -12,12 +12,12 @@ Hi, this is Zhe Li. I am a 2nd year Ph.D. student in Department of Automation, T
 
 ## Background
 
-Ph.D Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).\\
+Ph.D Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
 Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 ## Publication
 
-<img align="left" width="300" height="110" src="https://lizhe00.github.io/images/cvpr2020.jpg" style="padding-right:20px; padding-top:20px"/>
+<img align="left" height="90" src="https://lizhe00.github.io/images/cvpr2020.jpg" style="padding-right:20px; padding-top:20px"/>
 
 **Robust 3D Self-portraits in Seconds**<br>
 **Zhe Li**, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
