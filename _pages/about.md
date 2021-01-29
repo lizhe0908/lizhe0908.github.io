@@ -17,7 +17,7 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 
 ## Publication
 
-<img align="left" height="100" width="180" src="https://lizhe00.github.io/images/cvpr2020.jpg" style="padding-right:20px; padding-top:20px"/>
+<img align="left" height="110" width="200" src="../images/cvpr2020.jpg" style="padding-right:20px; padding-top:20px"/>
 
 **Robust 3D Self-portraits in Seconds**<br>
 **Zhe Li**, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
