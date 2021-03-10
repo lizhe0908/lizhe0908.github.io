@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Zhe Li. I am a 2nd year Ph.D. student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on computer vision, specifically single-view 3D human reconstruction.
+Hi, this is Zhe Li. I am a 2nd year Ph.D. student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on computer vision, specifically 3D human reconstruction.
 
 ## Background
 
-Ph.D Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
+Ph.D Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
 Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 ## Publication
 
-<img align="left" height="120" width="215" src="../images/cvpr2020.jpg" style="padding-right:20px; padding-top:20px"/>
+<img align="left" height="120" width="215" src="../images/cvpr21_posefusion.jpg" style="padding-right:20px; padding-top:20px"/>
+**POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture**<br>
+**Zhe Li**, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
+Coming soon<br>
 
+
+<img align="left" height="120" width="215" src="../images/cvpr20_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
 **Robust 3D Self-portraits in Seconds**<br>
 **Zhe Li**, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
-<i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020</i>  <font color="#dd0000">(Oral)</font><br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/portrait/portrait.html)  [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf)  [[Oral Video]](https://youtu.be/nx-pzk12hLY)  [[Supp Video]](http://www.liuyebin.com/portrait/assets/portrait.mp4)<br>
 
