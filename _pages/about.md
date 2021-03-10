@@ -18,14 +18,14 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 ## Publication
 
 <img align="left" height="120" width="215" src="../images/cvpr21_posefusion.jpg" style="padding-right:20px; padding-top:20px"/>
-<b><font color = "#66B3FF">POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</font></b><br>
+<b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [Coming soon]()<br>
 
 
 <img align="left" height="120" width="215" src="../images/cvpr20_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
-<b><font color = "#66B3FF">Robust 3D Self-portraits in Seconds</font></b><br>
+<b>Robust 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/portrait/portrait.html)  [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf)  [[Oral Video]](https://youtu.be/nx-pzk12hLY)  [[Supp Video]](http://www.liuyebin.com/portrait/assets/portrait.mp4)<br>
