@@ -29,6 +29,3 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 <b>Zhe Li</b>, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/portrait/portrait.html)  [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf)  [[Oral Video]](https://youtu.be/nx-pzk12hLY)  [[Supp Video]](http://www.liuyebin.com/portrait/assets/portrait.mp4)<br>
-
-
-<a href="https://clustrmaps.com/site/1bgz8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ZcPFXwWn9es0WNkpPD8AJCO64nBp4FUf5oA2cJ1jwDQ&cl=ffffff" /></a>
